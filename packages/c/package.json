@@ -1,0 +1,12 @@
+{
+  "name": "@jest-repro/c",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@jest-repro/jest-preset": "1.0.0",
+    "@testing-library/react": "^11.1.2"
+  },
+  "main": "src/index.js"
+}

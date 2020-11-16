@@ -1,0 +1,5 @@
+{
+  "name": "@jest-repro/jest-preset",
+  "version": "1.0.0",
+  "main": "jest-preset.js"
+}

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`B should render 1`] = `
+<div>
+  <div
+    data-testid="B"
+  >
+    <div
+      data-testid="C"
+    />
+  </div>
+</div>
+`;
